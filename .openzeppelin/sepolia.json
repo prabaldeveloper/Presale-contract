@@ -1,0 +1,5379 @@
+{
+  "manifestVersion": "3.2",
+  "admin": {
+    "address": "0x60Ef5922f37a3D9d5C9B7682536701E395b89054",
+    "txHash": "0x08de21dddcecc387a0384b594f368365ce8eabf28c6a0ead8e1821e42eba35e8"
+  },
+  "proxies": [
+    {
+      "address": "0xF476e79855D0C8dC25A31C2D97639DdbE6E774d1",
+      "txHash": "0xe32f01beefdf5fbb71e5402b64d1abe8ad790db183b7d8e71b0363835436159d",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x5c3101CBc01576da9C8B377Ea8dCfC2865f8C0f6",
+      "txHash": "0xac51718b2301c62ded7f286d0256e195b77340bdc4b8102ce4c0dcb2294b9236",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x46597602A7099A407B4df81e7f06F19F3e8DDC6f",
+      "txHash": "0xf076edc7da05868e6ec71baccc1ea521dcae7b84ff705f8215a2a02fd139120f",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x7095002ACA04B90c329377630B256d5E542B129D",
+      "txHash": "0x1ad01bd6624a979c65733f829a46b7674b133d9108e7971bad0d2497b0a579c6",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x4526198B49517a0a976057eafBd052AB3d33E5e7",
+      "txHash": "0x3fd9e2401324c1149f0fbce85c182bf3814ed16f69aff2fef98b2a625e1c52ac",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x83F1877569A173da541B5888A33d2747b517134F",
+      "txHash": "0xa16eef24c166e6bdfee9acde38cf83dc039dbb7843afe6d26d7f02813639dd56",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xd72c917dFAF82AdCDb1e1a5DabA21D4fa99Bab5b",
+      "txHash": "0x7ed48de4deaead0a2fad9ff00cc12d537f1f70038398bea22d57a073dc8e4879",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x4D1D9beFEAb3643b862331b6e124d5D7E74c762e",
+      "txHash": "0x4e4a2490cb98cf45632e2001082669063179b620a896af27250a79feebbab5b2",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x2185965C45338D804FDE01c8C4bDB3b7A9E2b18B",
+      "txHash": "0x392923342a1452078844758fd24de57da1c264abbe6501ffcd2dfc94e5e3ca32",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x9902A61AAFBa5D9a6E090d51De09C81a899a965B",
+      "txHash": "0xdf1d1f49e43638b64a24baff0a7986b51ab16d3646f52beec25debb1796e1fca",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xBcdb58E1170528Bf307c49b26dB4eBF4ae7b7580",
+      "txHash": "0x5868eedf34abe32d454b398cfe74ec0dee22a34afd88108ec95b88c1184068ca",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x6A347e36d2f8876B5efF4F7d47af25cc518d9e58",
+      "txHash": "0x47c08404435dde1c2c9fdc1e6c3e1e7825c64a72873387f32934bdfd7d5fb94b",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x1428805025084Dfb1a38303861D61A8Cc6C1E355",
+      "txHash": "0x3fce82e7c9ae649234b3395881edd32a03245d30e999acd806bc22a8140730a6",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x145c830f5Eaeb57d4453bc3Cfe24faE15D29A3DC",
+      "txHash": "0xa2f81e40f334ce25bfd627f9fbf502d0e64ae4e3420acc82d90fb8edde056b63",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xFB0fb4583Df2B515cAFf73D3364c05bdc1eF2CB2",
+      "txHash": "0xed5cbab74efe1f6be73eed3b2ecd779a3c321eb398dd2362396308fdc32802bb",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xf4298140A8F92a05040828135550E7F0795FfA3a",
+      "txHash": "0x5b9ce0e62264831b7fbf4864844da29a24cdc11cb82d35c7e78dd5a040a520ee",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x20EDc0Dd0CcE049D4C32df1805a156095c0c4A67",
+      "txHash": "0xc87e65b927d90fb4178b09c1e6299498c4a43762cab448e4977f99c960a0ec72",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xD54CC082CD6f86a0a7c3cf9374cc3fE2dd169AA5",
+      "txHash": "0x9839cd795fd9a5f72ae00d6dfa00b594b68c8cf5a4db75ee8d730e37c71228c3",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x243Ff5c7a7388510dA10E93aFdc7BD054E31a0e9",
+      "txHash": "0x28d7f233a0167ce8119db71a41d35b4e73cbf07765db8ff2abe999aac45a4cf6",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x143eaA4dfDa7270034f70823cdD624528B163492",
+      "txHash": "0x1d4a5fc5c9c0b581c9c5f14ac9766c5747120cd28f3081036066ceb74e3cc6a8",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xAC7A7b02fbfD5B93F0fCfaa66Bdc2B5A27917E8a",
+      "txHash": "0xd21c7d099bae7d3d35e085dcffc8dbf9c515bd7aa8882d7e38a29c3107078150",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x3730Cd5F6488Ac9ACb7840e0290e87FaB6311486",
+      "txHash": "0xed0c36dcbf337f6045803251f29562234b2699869623d8a33647376335234bce",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x82E34eAca256079BAA904Bc10FF93bc8905bF658",
+      "txHash": "0x2c5a5cb6819ccfc92f2c0805fdc6aa3f304362ef408907f48d2b8cc78c464d0d",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x4bdD7E05A8Fd3a4F40E2ee6d58CF20487f65de0D",
+      "txHash": "0xe44c23fceb78aa885bbd740e5fae7ae6f6eec6d9d60f44cc217944ed8b21a224",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x9a8467397FeE1f91c91512B30b977c0c9CF03205",
+      "txHash": "0x912c67e5ea955dfc0a4d0bf7c3bf4a8d1a57fa939b44aedde98528cef5bf2c00",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x94957b4679Cfce83B2A0D52f3a0f962824A50379",
+      "txHash": "0xbdaa68fa55c730760528bcaf739bd29d97d0bad235b6087ee84818dbb44ea12d",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x36e3676d432Fa9aE8aB81924dDf85a5235A63E95",
+      "txHash": "0x3befeb62168370bb91ef1a82f3344c85b15da20644a6468e90bd4ed9ab6d24cf",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x064CeC42eCa5461820E692B3F73A99a0e85AE87c",
+      "txHash": "0x1b101f34d609c0be4164a6b5d69e180537f191e3a2b3ab4374ee36905972f736",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x7bd0a547b1680fd9390D87df041974A0781829A4",
+      "txHash": "0x862b70632cc7b0097e91214a7697d27c894c0523613eefd4dc3264ccaf9b44e8",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x6AEa767Dad517B4A7FB500099f1d4f70d580F19f",
+      "txHash": "0xcfc04b6a058a4d02e75de85f8a4b7a11c57b70130a00e1499d46675f0f39e476",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x9FdC692A61799CaB28d1a551aCa89D67D366AF68",
+      "txHash": "0x0549e05b3ae48eae7f8d5774116c11a73caa2ec21c68f3b4d82732014cccc53c",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x4A6bC2885C36674697308DFEE80968212eDa625F",
+      "txHash": "0xfbe4d678f9f395b9296b9bd75ac1a4d82c902b216fdef7d061d43c0ff7f74cc5",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x8F12C00BF370531beBa5198cabbb5B653C5B9D08",
+      "txHash": "0x90d78d9f891abb666b4d50f4a2b2a9f58580fd02b05842ba6dcce5d30ff285eb",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x7feE0BCDE3Fa576c04e7777BF7AfaDCf155041d7",
+      "txHash": "0x54534d4e9314b6844b779ca05e77231efd398586f646438ec5205ef341b87334",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x950d1cDb8460DE49bdcEfb5468FEE1874401154d",
+      "txHash": "0xd135f7874de477ac521d81b6657f7a3e360273dc788c3137cb5c6f4949419508",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x4DdD6604AdD19DD291a360A2883312D5061362c4",
+      "txHash": "0xb13d6d4c4dcacd0b5ec89824870e10e7dc3e7aa6ed9ae545fababe631bf5ad0b",
+      "kind": "transparent"
+    },
+    {
+      "address": "0xA4c31242c251692ac2819A91Cc26d6aD6f28F2fB",
+      "txHash": "0xd696e022e9c79f010fcac8fe4198889c9f3c9a6279ad3b41ac6873cafa4c1301",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x03ed076a988c4EA992AdB3BED0359Bf258a8cC4D",
+      "txHash": "0x9d1469a6ee0f7c8e579d6ea187653952a5dbc95cfddda946a34f3ce8b49fa3f4",
+      "kind": "transparent"
+    },
+    {
+      "address": "0x43D85e31525977E208687d2e5dc0307281bbe102",
+      "txHash": "0xaf998aa14e0f3189345f71e45ce9d076aaf01fb8c40099419c3ba66497e5c4b7",
+      "kind": "transparent"
+    }
+  ],
+  "impls": {
+    "113ad25aaa4a99c1ca20a7134ded316a7b21da5fcbf650b06a0195d38360bf20": {
+      "address": "0xa4A1992246Fe260E144B54fD8518e7124e19F353",
+      "txHash": "0x1a4722bdcca2e50b60f60b6a4b7bba366186ecb2123afff61d4fc912b1027850",
+      "layout": {
+        "solcVersion": "0.8.2",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "contracts\\MockToken.sol:315",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "contracts\\MockToken.sol:320"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "contracts\\MockToken.sol:461"
+          },
+          {
+            "label": "_balances",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "ERC20Upgradeable",
+            "src": "contracts\\MockToken.sol:713"
+          },
+          {
+            "label": "_allowances",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_uint256))",
+            "contract": "ERC20Upgradeable",
+            "src": "contracts\\MockToken.sol:715"
+          },
+          {
+            "label": "_totalSupply",
+            "offset": 0,
+            "slot": "53",
+            "type": "t_uint256",
+            "contract": "ERC20Upgradeable",
+            "src": "contracts\\MockToken.sol:717"
+          },
+          {
+            "label": "_name",
+            "offset": 0,
+            "slot": "54",
+            "type": "t_string_storage",
+            "contract": "ERC20Upgradeable",
+            "src": "contracts\\MockToken.sol:719"
+          },
+          {
+            "label": "_symbol",
+            "offset": 0,
+            "slot": "55",
+            "type": "t_string_storage",
+            "contract": "ERC20Upgradeable",
+            "src": "contracts\\MockToken.sol:720"
+          },
+          {
+            "label": "_decimal",
+            "offset": 0,
+            "slot": "56",
+            "type": "t_uint8",
+            "contract": "ERC20Upgradeable",
+            "src": "contracts\\MockToken.sol:721"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "57",
+            "type": "t_array(t_uint256)45_storage",
+            "contract": "ERC20Upgradeable",
+            "src": "contracts\\MockToken.sol:1051"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "contracts\\MockToken.sol:486"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "103",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "contracts\\MockToken.sol:558"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)45_storage": {
+            "label": "uint256[45]",
+            "numberOfBytes": "1440"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_uint256))": {
+            "label": "mapping(address => mapping(address => uint256))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_string_storage": {
+            "label": "string",
+            "numberOfBytes": "32"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        },
+        "namespaces": {}
+      }
+    },
+    "a193e9d54400349cb4782f0552b6b0817ee6848011f8ad7d15677c89d494fb4a": {
+      "address": "0xCf8322f6Ba1F29e7be32e64aBB3e01D397Eb9f4b",
+      "txHash": "0x4a08f9ccc37654fc96684ae19120369caa5ef420c57f549e0ba5bf3c9d7b3744",
+      "layout": {
+        "solcVersion": "0.8.2",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:63",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:68"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:40"
+          },
+          {
+            "label": "_balances",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "ERC20Upgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\token\\ERC20\\ERC20Upgradeable.sol:40"
+          },
+          {
+            "label": "_allowances",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_uint256))",
+            "contract": "ERC20Upgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\token\\ERC20\\ERC20Upgradeable.sol:42"
+          },
+          {
+            "label": "_totalSupply",
+            "offset": 0,
+            "slot": "53",
+            "type": "t_uint256",
+            "contract": "ERC20Upgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\token\\ERC20\\ERC20Upgradeable.sol:44"
+          },
+          {
+            "label": "_name",
+            "offset": 0,
+            "slot": "54",
+            "type": "t_string_storage",
+            "contract": "ERC20Upgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\token\\ERC20\\ERC20Upgradeable.sol:46"
+          },
+          {
+            "label": "_symbol",
+            "offset": 0,
+            "slot": "55",
+            "type": "t_string_storage",
+            "contract": "ERC20Upgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\token\\ERC20\\ERC20Upgradeable.sol:47"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "56",
+            "type": "t_array(t_uint256)45_storage",
+            "contract": "ERC20Upgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\token\\ERC20\\ERC20Upgradeable.sol:376"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)45_storage": {
+            "label": "uint256[45]",
+            "numberOfBytes": "1440"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_uint256))": {
+            "label": "mapping(address => mapping(address => uint256))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_string_storage": {
+            "label": "string",
+            "numberOfBytes": "32"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        },
+        "namespaces": {}
+      }
+    },
+    "286e7781c0cf84320ab3933e9008e56caf7f242281af4a7762d6de1d2aff0641": {
+      "address": "0x91Bd954cdd497EB4CEfdb6Fc3c3704913580a9eB",
+      "txHash": "0x48957c751c5bf1f0f068cf033a9ac29fea7157b49edfad8cff82ae1be99ec4cf",
+      "layout": {
+        "solcVersion": "0.8.2",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:63",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:68"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:40"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "_status",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_uint256",
+            "contract": "ReentrancyGuardUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\ReentrancyGuardUpgradeable.sol:38"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "ReentrancyGuardUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\ReentrancyGuardUpgradeable.sol:88"
+          },
+          {
+            "label": "_paused",
+            "offset": 0,
+            "slot": "151",
+            "type": "t_bool",
+            "contract": "PausableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\PausableUpgradeable.sol:29"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "152",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "PausableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\PausableUpgradeable.sol:116"
+          },
+          {
+            "label": "token",
+            "offset": 0,
+            "slot": "201",
+            "type": "t_contract(IERC20Upgradeable)592",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:46"
+          },
+          {
+            "label": "treasury",
+            "offset": 0,
+            "slot": "202",
+            "type": "t_address_payable",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:48"
+          },
+          {
+            "label": "ethDataFeed",
+            "offset": 0,
+            "slot": "203",
+            "type": "t_contract(AggregatorV3Interface)1091",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:50"
+          },
+          {
+            "label": "referrerBonusPercentage",
+            "offset": 0,
+            "slot": "204",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:52"
+          },
+          {
+            "label": "minPurchase",
+            "offset": 0,
+            "slot": "205",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:54"
+          },
+          {
+            "label": "maxPurchase",
+            "offset": 0,
+            "slot": "206",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:56"
+          },
+          {
+            "label": "presaleEnded",
+            "offset": 0,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:58"
+          },
+          {
+            "label": "referrerBonusReleased",
+            "offset": 1,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:60"
+          },
+          {
+            "label": "claimReleased",
+            "offset": 2,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:62"
+          },
+          {
+            "label": "whitelistedTokens",
+            "offset": 0,
+            "slot": "208",
+            "type": "t_mapping(t_address,t_bool)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:64"
+          },
+          {
+            "label": "vestingStartTime",
+            "offset": 0,
+            "slot": "209",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:67"
+          },
+          {
+            "label": "vestingDuration",
+            "offset": 0,
+            "slot": "210",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:69"
+          },
+          {
+            "label": "cliffDuration",
+            "offset": 0,
+            "slot": "211",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:71"
+          },
+          {
+            "label": "totalReferrerBonusAllocated",
+            "offset": 0,
+            "slot": "212",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:73"
+          },
+          {
+            "label": "users",
+            "offset": 0,
+            "slot": "213",
+            "type": "t_mapping(t_address,t_struct(User)1143_storage)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:83"
+          },
+          {
+            "label": "contributions",
+            "offset": 0,
+            "slot": "214",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_uint256))",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:85"
+          },
+          {
+            "label": "currentStageId",
+            "offset": 0,
+            "slot": "215",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:99"
+          },
+          {
+            "label": "stages",
+            "offset": 0,
+            "slot": "216",
+            "type": "t_mapping(t_uint256,t_struct(Stage)1171_storage)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:101"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_address_payable": {
+            "label": "address payable",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(AggregatorV3Interface)1091": {
+            "label": "contract AggregatorV3Interface",
+            "numberOfBytes": "20"
+          },
+          "t_contract(IERC20Upgradeable)592": {
+            "label": "contract IERC20Upgradeable",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_uint256))": {
+            "label": "mapping(address => mapping(address => uint256))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_struct(User)1143_storage)": {
+            "label": "mapping(address => struct TokenPresale.User)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Stage)1171_storage)": {
+            "label": "mapping(uint256 => struct TokenPresale.Stage)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Stage)1171_storage": {
+            "label": "struct TokenPresale.Stage",
+            "members": [
+              {
+                "label": "tokensAllocated",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "tokensSold",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "rate",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "startTime",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "endTime",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "amountRaised",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
+                "label": "isActive",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "6"
+              },
+              {
+                "label": "referrerBonusAmount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "7"
+              }
+            ],
+            "numberOfBytes": "256"
+          },
+          "t_struct(User)1143_storage": {
+            "label": "struct TokenPresale.User",
+            "members": [
+              {
+                "label": "usdInvested",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "tokensAllocated",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "referrerEarnings",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "tokensClaimed",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              }
+            ],
+            "numberOfBytes": "128"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        },
+        "namespaces": {}
+      }
+    },
+    "94c0f4928936fdaabc4763f81b6264da4e4fab8aea8967df41bb46820b634bfa": {
+      "address": "0xB0EC9468a4308A23F52625a56180b38270b61b3c",
+      "txHash": "0xf52b3a16e54d968ed7d40faef7314504e03e88d660350cf0897a2973588ab4f8",
+      "layout": {
+        "solcVersion": "0.8.2",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:63",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:68"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:40"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "_status",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_uint256",
+            "contract": "ReentrancyGuardUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\ReentrancyGuardUpgradeable.sol:38"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "ReentrancyGuardUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\ReentrancyGuardUpgradeable.sol:88"
+          },
+          {
+            "label": "_paused",
+            "offset": 0,
+            "slot": "151",
+            "type": "t_bool",
+            "contract": "PausableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\PausableUpgradeable.sol:29"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "152",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "PausableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\PausableUpgradeable.sol:116"
+          },
+          {
+            "label": "token",
+            "offset": 0,
+            "slot": "201",
+            "type": "t_contract(IERC20Upgradeable)592",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:46"
+          },
+          {
+            "label": "treasury",
+            "offset": 0,
+            "slot": "202",
+            "type": "t_address_payable",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:48"
+          },
+          {
+            "label": "ethDataFeed",
+            "offset": 0,
+            "slot": "203",
+            "type": "t_contract(AggregatorV3Interface)1091",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:50"
+          },
+          {
+            "label": "referrerBonusPercentage",
+            "offset": 0,
+            "slot": "204",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:52"
+          },
+          {
+            "label": "minPurchase",
+            "offset": 0,
+            "slot": "205",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:54"
+          },
+          {
+            "label": "maxPurchase",
+            "offset": 0,
+            "slot": "206",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:56"
+          },
+          {
+            "label": "presaleEnded",
+            "offset": 0,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:58"
+          },
+          {
+            "label": "referrerBonusReleased",
+            "offset": 1,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:60"
+          },
+          {
+            "label": "claimReleased",
+            "offset": 2,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:62"
+          },
+          {
+            "label": "whitelistedTokens",
+            "offset": 0,
+            "slot": "208",
+            "type": "t_mapping(t_address,t_bool)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:64"
+          },
+          {
+            "label": "tokenList",
+            "offset": 0,
+            "slot": "209",
+            "type": "t_array(t_address)dyn_storage",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:66"
+          },
+          {
+            "label": "vestingStartTime",
+            "offset": 0,
+            "slot": "210",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:69"
+          },
+          {
+            "label": "vestingDuration",
+            "offset": 0,
+            "slot": "211",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:71"
+          },
+          {
+            "label": "cliffDuration",
+            "offset": 0,
+            "slot": "212",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:73"
+          },
+          {
+            "label": "totalReferrerBonusAllocated",
+            "offset": 0,
+            "slot": "213",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:75"
+          },
+          {
+            "label": "users",
+            "offset": 0,
+            "slot": "214",
+            "type": "t_mapping(t_address,t_struct(User)1148_storage)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:86"
+          },
+          {
+            "label": "contributions",
+            "offset": 0,
+            "slot": "215",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_uint256))",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:88"
+          },
+          {
+            "label": "currentStageId",
+            "offset": 0,
+            "slot": "216",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:102"
+          },
+          {
+            "label": "stages",
+            "offset": 0,
+            "slot": "217",
+            "type": "t_mapping(t_uint256,t_struct(Stage)1176_storage)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:104"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_address_payable": {
+            "label": "address payable",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(AggregatorV3Interface)1091": {
+            "label": "contract AggregatorV3Interface",
+            "numberOfBytes": "20"
+          },
+          "t_contract(IERC20Upgradeable)592": {
+            "label": "contract IERC20Upgradeable",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_uint256))": {
+            "label": "mapping(address => mapping(address => uint256))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_struct(User)1148_storage)": {
+            "label": "mapping(address => struct TokenPresale.User)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Stage)1176_storage)": {
+            "label": "mapping(uint256 => struct TokenPresale.Stage)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Stage)1176_storage": {
+            "label": "struct TokenPresale.Stage",
+            "members": [
+              {
+                "label": "tokensAllocated",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "tokensSold",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "rate",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "startTime",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "endTime",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "amountRaised",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
+                "label": "isActive",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "6"
+              },
+              {
+                "label": "referrerBonusAmount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "7"
+              }
+            ],
+            "numberOfBytes": "256"
+          },
+          "t_struct(User)1148_storage": {
+            "label": "struct TokenPresale.User",
+            "members": [
+              {
+                "label": "usdInvested",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "tokensAllocated",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "referrerEarnings",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "tokensClaimed",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "noOfReferrals",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "4"
+              }
+            ],
+            "numberOfBytes": "160"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        },
+        "namespaces": {}
+      }
+    },
+    "c7bd7b6996401f3401cbda72f9ba83994b58ed434c1742c73a959900954d49dd": {
+      "address": "0x1ba954a066242c21406553167812B840c39424a3",
+      "txHash": "0x5f8ef22aa25053c6b7ef5d6219e6ea953321ff9027fc55e32451914fc067a3d5",
+      "layout": {
+        "solcVersion": "0.8.2",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:63",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:68"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:40"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "_status",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_uint256",
+            "contract": "ReentrancyGuardUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\ReentrancyGuardUpgradeable.sol:38"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "ReentrancyGuardUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\ReentrancyGuardUpgradeable.sol:88"
+          },
+          {
+            "label": "_paused",
+            "offset": 0,
+            "slot": "151",
+            "type": "t_bool",
+            "contract": "PausableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\PausableUpgradeable.sol:29"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "152",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "PausableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\PausableUpgradeable.sol:116"
+          },
+          {
+            "label": "token",
+            "offset": 0,
+            "slot": "201",
+            "type": "t_contract(IERC20Upgradeable)592",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:46"
+          },
+          {
+            "label": "treasury",
+            "offset": 0,
+            "slot": "202",
+            "type": "t_address_payable",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:48"
+          },
+          {
+            "label": "ethDataFeed",
+            "offset": 0,
+            "slot": "203",
+            "type": "t_contract(AggregatorV3Interface)1091",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:50"
+          },
+          {
+            "label": "referrerBonusPercentage",
+            "offset": 0,
+            "slot": "204",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:52"
+          },
+          {
+            "label": "minPurchase",
+            "offset": 0,
+            "slot": "205",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:54"
+          },
+          {
+            "label": "maxPurchase",
+            "offset": 0,
+            "slot": "206",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:56"
+          },
+          {
+            "label": "presaleEnded",
+            "offset": 0,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:58"
+          },
+          {
+            "label": "referrerBonusReleased",
+            "offset": 1,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:60"
+          },
+          {
+            "label": "claimReleased",
+            "offset": 2,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:62"
+          },
+          {
+            "label": "whitelistedTokens",
+            "offset": 0,
+            "slot": "208",
+            "type": "t_mapping(t_address,t_bool)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:64"
+          },
+          {
+            "label": "tokenList",
+            "offset": 0,
+            "slot": "209",
+            "type": "t_array(t_address)dyn_storage",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:66"
+          },
+          {
+            "label": "vestingStartTime",
+            "offset": 0,
+            "slot": "210",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:69"
+          },
+          {
+            "label": "vestingDuration",
+            "offset": 0,
+            "slot": "211",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:71"
+          },
+          {
+            "label": "cliffDuration",
+            "offset": 0,
+            "slot": "212",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:73"
+          },
+          {
+            "label": "totalReferrerBonusAllocated",
+            "offset": 0,
+            "slot": "213",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:75"
+          },
+          {
+            "label": "users",
+            "offset": 0,
+            "slot": "214",
+            "type": "t_mapping(t_address,t_struct(User)1148_storage)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:86"
+          },
+          {
+            "label": "contributions",
+            "offset": 0,
+            "slot": "215",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_uint256))",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:88"
+          },
+          {
+            "label": "currentStageId",
+            "offset": 0,
+            "slot": "216",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:102"
+          },
+          {
+            "label": "stages",
+            "offset": 0,
+            "slot": "217",
+            "type": "t_mapping(t_uint256,t_struct(Stage)1176_storage)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:104"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_address_payable": {
+            "label": "address payable",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(AggregatorV3Interface)1091": {
+            "label": "contract AggregatorV3Interface",
+            "numberOfBytes": "20"
+          },
+          "t_contract(IERC20Upgradeable)592": {
+            "label": "contract IERC20Upgradeable",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_uint256))": {
+            "label": "mapping(address => mapping(address => uint256))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_struct(User)1148_storage)": {
+            "label": "mapping(address => struct TokenPresale.User)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Stage)1176_storage)": {
+            "label": "mapping(uint256 => struct TokenPresale.Stage)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Stage)1176_storage": {
+            "label": "struct TokenPresale.Stage",
+            "members": [
+              {
+                "label": "tokensAllocated",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "tokensSold",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "rate",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "startTime",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "endTime",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "amountRaised",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
+                "label": "isActive",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "6"
+              },
+              {
+                "label": "referrerBonusAmount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "7"
+              }
+            ],
+            "numberOfBytes": "256"
+          },
+          "t_struct(User)1148_storage": {
+            "label": "struct TokenPresale.User",
+            "members": [
+              {
+                "label": "usdInvested",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "tokensAllocated",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "referrerEarnings",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "tokensClaimed",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "noOfReferrals",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "4"
+              }
+            ],
+            "numberOfBytes": "160"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        },
+        "namespaces": {}
+      }
+    },
+    "23bc3e9121592f0f1a22a7ad7295412d3c567f143dfeaaa571c68059bde098a3": {
+      "address": "0xcCba03F5190E4f1eC98CfDc09bC7867aE1aA581A",
+      "txHash": "0x0a1690ac12f4814e92699a04b18c0d0e18343f00eba67ca49ec87f721c2076b1",
+      "layout": {
+        "solcVersion": "0.8.2",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:63",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:68"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:40"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "_status",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_uint256",
+            "contract": "ReentrancyGuardUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\ReentrancyGuardUpgradeable.sol:38"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "ReentrancyGuardUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\ReentrancyGuardUpgradeable.sol:88"
+          },
+          {
+            "label": "_paused",
+            "offset": 0,
+            "slot": "151",
+            "type": "t_bool",
+            "contract": "PausableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\PausableUpgradeable.sol:29"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "152",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "PausableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\PausableUpgradeable.sol:116"
+          },
+          {
+            "label": "token",
+            "offset": 0,
+            "slot": "201",
+            "type": "t_contract(IERC20Upgradeable)592",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:46"
+          },
+          {
+            "label": "treasury",
+            "offset": 0,
+            "slot": "202",
+            "type": "t_address_payable",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:48"
+          },
+          {
+            "label": "ethDataFeed",
+            "offset": 0,
+            "slot": "203",
+            "type": "t_contract(AggregatorV3Interface)1091",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:50"
+          },
+          {
+            "label": "referrerBonusPercentage",
+            "offset": 0,
+            "slot": "204",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:52"
+          },
+          {
+            "label": "minPurchase",
+            "offset": 0,
+            "slot": "205",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:54"
+          },
+          {
+            "label": "maxPurchase",
+            "offset": 0,
+            "slot": "206",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:56"
+          },
+          {
+            "label": "presaleEnded",
+            "offset": 0,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:58"
+          },
+          {
+            "label": "referrerBonusReleased",
+            "offset": 1,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:60"
+          },
+          {
+            "label": "claimReleased",
+            "offset": 2,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:62"
+          },
+          {
+            "label": "whitelistedTokens",
+            "offset": 0,
+            "slot": "208",
+            "type": "t_mapping(t_address,t_bool)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:64"
+          },
+          {
+            "label": "tokenList",
+            "offset": 0,
+            "slot": "209",
+            "type": "t_array(t_address)dyn_storage",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:66"
+          },
+          {
+            "label": "vestingStartTime",
+            "offset": 0,
+            "slot": "210",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:69"
+          },
+          {
+            "label": "vestingDuration",
+            "offset": 0,
+            "slot": "211",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:71"
+          },
+          {
+            "label": "cliffDuration",
+            "offset": 0,
+            "slot": "212",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:73"
+          },
+          {
+            "label": "totalReferrerBonusAllocated",
+            "offset": 0,
+            "slot": "213",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:75"
+          },
+          {
+            "label": "users",
+            "offset": 0,
+            "slot": "214",
+            "type": "t_mapping(t_address,t_struct(User)1148_storage)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:86"
+          },
+          {
+            "label": "contributions",
+            "offset": 0,
+            "slot": "215",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_uint256))",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:88"
+          },
+          {
+            "label": "currentStageId",
+            "offset": 0,
+            "slot": "216",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:102"
+          },
+          {
+            "label": "stages",
+            "offset": 0,
+            "slot": "217",
+            "type": "t_mapping(t_uint256,t_struct(Stage)1176_storage)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:104"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_address_payable": {
+            "label": "address payable",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(AggregatorV3Interface)1091": {
+            "label": "contract AggregatorV3Interface",
+            "numberOfBytes": "20"
+          },
+          "t_contract(IERC20Upgradeable)592": {
+            "label": "contract IERC20Upgradeable",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_uint256))": {
+            "label": "mapping(address => mapping(address => uint256))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_struct(User)1148_storage)": {
+            "label": "mapping(address => struct TokenPresale.User)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Stage)1176_storage)": {
+            "label": "mapping(uint256 => struct TokenPresale.Stage)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Stage)1176_storage": {
+            "label": "struct TokenPresale.Stage",
+            "members": [
+              {
+                "label": "tokensAllocated",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "tokensSold",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "rate",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "startTime",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "endTime",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "amountRaised",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
+                "label": "isActive",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "6"
+              },
+              {
+                "label": "referrerBonusAmount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "7"
+              }
+            ],
+            "numberOfBytes": "256"
+          },
+          "t_struct(User)1148_storage": {
+            "label": "struct TokenPresale.User",
+            "members": [
+              {
+                "label": "usdInvested",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "tokensAllocated",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "referrerEarnings",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "tokensClaimed",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "noOfReferrals",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "4"
+              }
+            ],
+            "numberOfBytes": "160"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        },
+        "namespaces": {}
+      }
+    },
+    "afa14ce639d55eaeee692fea8844fc7c00f941a3a4f1cb4f97f06ec7d12b82de": {
+      "address": "0xc14aceA1a6F3500EdAA92D0E0B0a2F778C66Ae59",
+      "txHash": "0x2eea14504f6a4693428c19f7785f39653d3898af1ed7428d8ffa20fb5b83069f",
+      "layout": {
+        "solcVersion": "0.8.2",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:63",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:68"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:40"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "_status",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_uint256",
+            "contract": "ReentrancyGuardUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\ReentrancyGuardUpgradeable.sol:38"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "ReentrancyGuardUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\ReentrancyGuardUpgradeable.sol:88"
+          },
+          {
+            "label": "_paused",
+            "offset": 0,
+            "slot": "151",
+            "type": "t_bool",
+            "contract": "PausableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\PausableUpgradeable.sol:29"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "152",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "PausableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\PausableUpgradeable.sol:116"
+          },
+          {
+            "label": "token",
+            "offset": 0,
+            "slot": "201",
+            "type": "t_contract(IERC20Upgradeable)592",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:46"
+          },
+          {
+            "label": "treasury",
+            "offset": 0,
+            "slot": "202",
+            "type": "t_address_payable",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:48"
+          },
+          {
+            "label": "ethDataFeed",
+            "offset": 0,
+            "slot": "203",
+            "type": "t_contract(AggregatorV3Interface)1093",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:50"
+          },
+          {
+            "label": "referrerBonusPercentage",
+            "offset": 0,
+            "slot": "204",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:52"
+          },
+          {
+            "label": "minPurchase",
+            "offset": 0,
+            "slot": "205",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:54"
+          },
+          {
+            "label": "maxPurchase",
+            "offset": 0,
+            "slot": "206",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:56"
+          },
+          {
+            "label": "presaleEnded",
+            "offset": 0,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:58"
+          },
+          {
+            "label": "referrerBonusReleased",
+            "offset": 1,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:60"
+          },
+          {
+            "label": "claimReleased",
+            "offset": 2,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:62"
+          },
+          {
+            "label": "whitelistedTokens",
+            "offset": 0,
+            "slot": "208",
+            "type": "t_mapping(t_address,t_bool)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:64"
+          },
+          {
+            "label": "tokenList",
+            "offset": 0,
+            "slot": "209",
+            "type": "t_array(t_address)dyn_storage",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:66"
+          },
+          {
+            "label": "vestingStartTime",
+            "offset": 0,
+            "slot": "210",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:69"
+          },
+          {
+            "label": "vestingDuration",
+            "offset": 0,
+            "slot": "211",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:71"
+          },
+          {
+            "label": "cliffDuration",
+            "offset": 0,
+            "slot": "212",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:73"
+          },
+          {
+            "label": "totalReferrerBonusAllocated",
+            "offset": 0,
+            "slot": "213",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:75"
+          },
+          {
+            "label": "users",
+            "offset": 0,
+            "slot": "214",
+            "type": "t_mapping(t_address,t_struct(User)1150_storage)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:86"
+          },
+          {
+            "label": "contributions",
+            "offset": 0,
+            "slot": "215",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_uint256))",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:88"
+          },
+          {
+            "label": "currentStageId",
+            "offset": 0,
+            "slot": "216",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:102"
+          },
+          {
+            "label": "stages",
+            "offset": 0,
+            "slot": "217",
+            "type": "t_mapping(t_uint256,t_struct(Stage)1178_storage)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:104"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_address_payable": {
+            "label": "address payable",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(AggregatorV3Interface)1093": {
+            "label": "contract AggregatorV3Interface",
+            "numberOfBytes": "20"
+          },
+          "t_contract(IERC20Upgradeable)592": {
+            "label": "contract IERC20Upgradeable",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_uint256))": {
+            "label": "mapping(address => mapping(address => uint256))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_struct(User)1150_storage)": {
+            "label": "mapping(address => struct TokenPresale.User)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Stage)1178_storage)": {
+            "label": "mapping(uint256 => struct TokenPresale.Stage)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Stage)1178_storage": {
+            "label": "struct TokenPresale.Stage",
+            "members": [
+              {
+                "label": "tokensAllocated",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "tokensSold",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "rate",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "startTime",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "endTime",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "amountRaised",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
+                "label": "isActive",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "6"
+              },
+              {
+                "label": "referrerBonusAmount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "7"
+              }
+            ],
+            "numberOfBytes": "256"
+          },
+          "t_struct(User)1150_storage": {
+            "label": "struct TokenPresale.User",
+            "members": [
+              {
+                "label": "usdInvested",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "tokensAllocated",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "referrerEarnings",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "tokensClaimed",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "noOfReferrals",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "4"
+              }
+            ],
+            "numberOfBytes": "160"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        },
+        "namespaces": {}
+      }
+    },
+    "33d836a61dfc8ede00d4f6b953edcbe287ac2f5159a5110fd772b5f5ff05e3d6": {
+      "address": "0xA2757Cc6C334EE1EB62C594B21dfF0e429d15cbE",
+      "txHash": "0x5a4f6fda9b3eebd45bdc69ae67200067b4c7274adb626b4fe4acc4709bce6523",
+      "layout": {
+        "solcVersion": "0.8.2",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:63",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:68"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:40"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "_status",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_uint256",
+            "contract": "ReentrancyGuardUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\ReentrancyGuardUpgradeable.sol:38"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "ReentrancyGuardUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\ReentrancyGuardUpgradeable.sol:88"
+          },
+          {
+            "label": "_paused",
+            "offset": 0,
+            "slot": "151",
+            "type": "t_bool",
+            "contract": "PausableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\PausableUpgradeable.sol:29"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "152",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "PausableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\PausableUpgradeable.sol:116"
+          },
+          {
+            "label": "token",
+            "offset": 0,
+            "slot": "201",
+            "type": "t_contract(IERC20Upgradeable)592",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:46"
+          },
+          {
+            "label": "treasury",
+            "offset": 0,
+            "slot": "202",
+            "type": "t_address_payable",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:48"
+          },
+          {
+            "label": "ethDataFeed",
+            "offset": 0,
+            "slot": "203",
+            "type": "t_contract(AggregatorV3Interface)1097",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:50"
+          },
+          {
+            "label": "referrerBonusPercentage",
+            "offset": 0,
+            "slot": "204",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:52"
+          },
+          {
+            "label": "minPurchase",
+            "offset": 0,
+            "slot": "205",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:54"
+          },
+          {
+            "label": "maxPurchase",
+            "offset": 0,
+            "slot": "206",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:56"
+          },
+          {
+            "label": "presaleEnded",
+            "offset": 0,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:58"
+          },
+          {
+            "label": "referrerBonusReleased",
+            "offset": 1,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:60"
+          },
+          {
+            "label": "claimReleased",
+            "offset": 2,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:62"
+          },
+          {
+            "label": "whitelistedTokens",
+            "offset": 0,
+            "slot": "208",
+            "type": "t_mapping(t_address,t_bool)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:64"
+          },
+          {
+            "label": "tokenList",
+            "offset": 0,
+            "slot": "209",
+            "type": "t_array(t_address)dyn_storage",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:66"
+          },
+          {
+            "label": "vestingStartTime",
+            "offset": 0,
+            "slot": "210",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:69"
+          },
+          {
+            "label": "vestingDuration",
+            "offset": 0,
+            "slot": "211",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:71"
+          },
+          {
+            "label": "cliffDuration",
+            "offset": 0,
+            "slot": "212",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:73"
+          },
+          {
+            "label": "totalReferrerBonusAllocated",
+            "offset": 0,
+            "slot": "213",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:75"
+          },
+          {
+            "label": "users",
+            "offset": 0,
+            "slot": "214",
+            "type": "t_mapping(t_address,t_struct(User)1154_storage)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:86"
+          },
+          {
+            "label": "contributions",
+            "offset": 0,
+            "slot": "215",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_uint256))",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:88"
+          },
+          {
+            "label": "currentStageId",
+            "offset": 0,
+            "slot": "216",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:102"
+          },
+          {
+            "label": "stages",
+            "offset": 0,
+            "slot": "217",
+            "type": "t_mapping(t_uint256,t_struct(Stage)1182_storage)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:104"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_address_payable": {
+            "label": "address payable",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(AggregatorV3Interface)1097": {
+            "label": "contract AggregatorV3Interface",
+            "numberOfBytes": "20"
+          },
+          "t_contract(IERC20Upgradeable)592": {
+            "label": "contract IERC20Upgradeable",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_uint256))": {
+            "label": "mapping(address => mapping(address => uint256))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_struct(User)1154_storage)": {
+            "label": "mapping(address => struct TokenPresale.User)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Stage)1182_storage)": {
+            "label": "mapping(uint256 => struct TokenPresale.Stage)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Stage)1182_storage": {
+            "label": "struct TokenPresale.Stage",
+            "members": [
+              {
+                "label": "tokensAllocated",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "tokensSold",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "rate",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "startTime",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "endTime",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "amountRaised",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
+                "label": "isActive",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "6"
+              },
+              {
+                "label": "referrerBonusAmount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "7"
+              }
+            ],
+            "numberOfBytes": "256"
+          },
+          "t_struct(User)1154_storage": {
+            "label": "struct TokenPresale.User",
+            "members": [
+              {
+                "label": "usdInvested",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "tokensAllocated",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "referrerEarnings",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "tokensClaimed",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "noOfReferrals",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "4"
+              }
+            ],
+            "numberOfBytes": "160"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        },
+        "namespaces": {}
+      }
+    },
+    "c0f1506626322004014c2b17c0d1cefa8db594575ef238d5c9a769bd124e9700": {
+      "address": "0x66E8C7C822257580512201942888e5b16F930DF4",
+      "txHash": "0xecd4d735b16b2ce3c6261b9407d86fb2fe7b3ab1508edaf285a2f8dab23f50dd",
+      "layout": {
+        "solcVersion": "0.8.2",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:63",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:68"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:40"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "_status",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_uint256",
+            "contract": "ReentrancyGuardUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\ReentrancyGuardUpgradeable.sol:38"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "ReentrancyGuardUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\ReentrancyGuardUpgradeable.sol:88"
+          },
+          {
+            "label": "_paused",
+            "offset": 0,
+            "slot": "151",
+            "type": "t_bool",
+            "contract": "PausableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\PausableUpgradeable.sol:29"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "152",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "PausableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\PausableUpgradeable.sol:116"
+          },
+          {
+            "label": "token",
+            "offset": 0,
+            "slot": "201",
+            "type": "t_contract(IERC20Upgradeable)592",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:46"
+          },
+          {
+            "label": "treasury",
+            "offset": 0,
+            "slot": "202",
+            "type": "t_address_payable",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:48"
+          },
+          {
+            "label": "ethDataFeed",
+            "offset": 0,
+            "slot": "203",
+            "type": "t_contract(AggregatorV3Interface)1093",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:50"
+          },
+          {
+            "label": "referrerBonusPercentage",
+            "offset": 0,
+            "slot": "204",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:52"
+          },
+          {
+            "label": "minPurchase",
+            "offset": 0,
+            "slot": "205",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:54"
+          },
+          {
+            "label": "maxPurchase",
+            "offset": 0,
+            "slot": "206",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:56"
+          },
+          {
+            "label": "presaleEnded",
+            "offset": 0,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:58"
+          },
+          {
+            "label": "referrerBonusReleased",
+            "offset": 1,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:60"
+          },
+          {
+            "label": "claimReleased",
+            "offset": 2,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:62"
+          },
+          {
+            "label": "whitelistedTokens",
+            "offset": 0,
+            "slot": "208",
+            "type": "t_mapping(t_address,t_bool)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:64"
+          },
+          {
+            "label": "tokenList",
+            "offset": 0,
+            "slot": "209",
+            "type": "t_array(t_address)dyn_storage",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:66"
+          },
+          {
+            "label": "vestingStartTime",
+            "offset": 0,
+            "slot": "210",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:69"
+          },
+          {
+            "label": "vestingDuration",
+            "offset": 0,
+            "slot": "211",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:71"
+          },
+          {
+            "label": "cliffDuration",
+            "offset": 0,
+            "slot": "212",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:73"
+          },
+          {
+            "label": "totalReferrerBonusAllocated",
+            "offset": 0,
+            "slot": "213",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:75"
+          },
+          {
+            "label": "referralTokenAddress",
+            "offset": 0,
+            "slot": "214",
+            "type": "t_address",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:77"
+          },
+          {
+            "label": "initialReleasePercent",
+            "offset": 0,
+            "slot": "215",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:79"
+          },
+          {
+            "label": "users",
+            "offset": 0,
+            "slot": "216",
+            "type": "t_mapping(t_address,t_struct(User)1156_storage)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:91"
+          },
+          {
+            "label": "contributions",
+            "offset": 0,
+            "slot": "217",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_uint256))",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:93"
+          },
+          {
+            "label": "currentStageId",
+            "offset": 0,
+            "slot": "218",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:107"
+          },
+          {
+            "label": "stages",
+            "offset": 0,
+            "slot": "219",
+            "type": "t_mapping(t_uint256,t_struct(Stage)1184_storage)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:109"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_address_payable": {
+            "label": "address payable",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(AggregatorV3Interface)1093": {
+            "label": "contract AggregatorV3Interface",
+            "numberOfBytes": "20"
+          },
+          "t_contract(IERC20Upgradeable)592": {
+            "label": "contract IERC20Upgradeable",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_uint256))": {
+            "label": "mapping(address => mapping(address => uint256))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_struct(User)1156_storage)": {
+            "label": "mapping(address => struct TokenPresale.User)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Stage)1184_storage)": {
+            "label": "mapping(uint256 => struct TokenPresale.Stage)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Stage)1184_storage": {
+            "label": "struct TokenPresale.Stage",
+            "members": [
+              {
+                "label": "tokensAllocated",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "tokensSold",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "rate",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "startTime",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "endTime",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "amountRaised",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
+                "label": "isActive",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "6"
+              },
+              {
+                "label": "referrerBonusAmount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "7"
+              }
+            ],
+            "numberOfBytes": "256"
+          },
+          "t_struct(User)1156_storage": {
+            "label": "struct TokenPresale.User",
+            "members": [
+              {
+                "label": "usdInvested",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "tokensAllocated",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "referrerEarnings",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "referrerEarningsClaimed",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "tokensClaimed",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "noOfReferrals",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "5"
+              }
+            ],
+            "numberOfBytes": "192"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        },
+        "namespaces": {}
+      }
+    },
+    "4d9159c191f4090dc0abf021d91436602905aa1fb51988dea0d401762c409cb7": {
+      "address": "0x39E6E21Ee818503178BF362b6a75d02B742438b7",
+      "txHash": "0x897014d9eac5a9e2746ea54c0812b75a9429d3ff687160ea655b98ab28046dd6",
+      "layout": {
+        "solcVersion": "0.8.2",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:63",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:68"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:40"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "_status",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_uint256",
+            "contract": "ReentrancyGuardUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\ReentrancyGuardUpgradeable.sol:38"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "ReentrancyGuardUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\ReentrancyGuardUpgradeable.sol:88"
+          },
+          {
+            "label": "_paused",
+            "offset": 0,
+            "slot": "151",
+            "type": "t_bool",
+            "contract": "PausableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\PausableUpgradeable.sol:29"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "152",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "PausableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\PausableUpgradeable.sol:116"
+          },
+          {
+            "label": "token",
+            "offset": 0,
+            "slot": "201",
+            "type": "t_contract(IERC20Upgradeable)592",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:46"
+          },
+          {
+            "label": "treasury",
+            "offset": 0,
+            "slot": "202",
+            "type": "t_address_payable",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:48"
+          },
+          {
+            "label": "ethDataFeed",
+            "offset": 0,
+            "slot": "203",
+            "type": "t_contract(AggregatorV3Interface)1093",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:50"
+          },
+          {
+            "label": "referrerBonusPercentage",
+            "offset": 0,
+            "slot": "204",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:52"
+          },
+          {
+            "label": "minPurchase",
+            "offset": 0,
+            "slot": "205",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:54"
+          },
+          {
+            "label": "maxPurchase",
+            "offset": 0,
+            "slot": "206",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:56"
+          },
+          {
+            "label": "presaleEnded",
+            "offset": 0,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:58"
+          },
+          {
+            "label": "referrerBonusReleased",
+            "offset": 1,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:60"
+          },
+          {
+            "label": "claimReleased",
+            "offset": 2,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:62"
+          },
+          {
+            "label": "whitelistedTokens",
+            "offset": 0,
+            "slot": "208",
+            "type": "t_mapping(t_address,t_bool)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:64"
+          },
+          {
+            "label": "tokenList",
+            "offset": 0,
+            "slot": "209",
+            "type": "t_array(t_address)dyn_storage",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:66"
+          },
+          {
+            "label": "vestingStartTime",
+            "offset": 0,
+            "slot": "210",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:69"
+          },
+          {
+            "label": "vestingDuration",
+            "offset": 0,
+            "slot": "211",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:71"
+          },
+          {
+            "label": "cliffDuration",
+            "offset": 0,
+            "slot": "212",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:73"
+          },
+          {
+            "label": "totalReferrerBonusAllocated",
+            "offset": 0,
+            "slot": "213",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:75"
+          },
+          {
+            "label": "referralBonusTokenAddress",
+            "offset": 0,
+            "slot": "214",
+            "type": "t_address",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:77"
+          },
+          {
+            "label": "vestingPercentage",
+            "offset": 0,
+            "slot": "215",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:79"
+          },
+          {
+            "label": "users",
+            "offset": 0,
+            "slot": "216",
+            "type": "t_mapping(t_address,t_struct(User)1156_storage)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:91"
+          },
+          {
+            "label": "contributions",
+            "offset": 0,
+            "slot": "217",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_uint256))",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:93"
+          },
+          {
+            "label": "currentStageId",
+            "offset": 0,
+            "slot": "218",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:107"
+          },
+          {
+            "label": "stages",
+            "offset": 0,
+            "slot": "219",
+            "type": "t_mapping(t_uint256,t_struct(Stage)1184_storage)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:109"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_address_payable": {
+            "label": "address payable",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(AggregatorV3Interface)1093": {
+            "label": "contract AggregatorV3Interface",
+            "numberOfBytes": "20"
+          },
+          "t_contract(IERC20Upgradeable)592": {
+            "label": "contract IERC20Upgradeable",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_uint256))": {
+            "label": "mapping(address => mapping(address => uint256))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_struct(User)1156_storage)": {
+            "label": "mapping(address => struct TokenPresale.User)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Stage)1184_storage)": {
+            "label": "mapping(uint256 => struct TokenPresale.Stage)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Stage)1184_storage": {
+            "label": "struct TokenPresale.Stage",
+            "members": [
+              {
+                "label": "tokensAllocated",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "tokensSold",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "rate",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "startTime",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "endTime",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "amountRaised",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
+                "label": "isActive",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "6"
+              },
+              {
+                "label": "referrerBonusAmount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "7"
+              }
+            ],
+            "numberOfBytes": "256"
+          },
+          "t_struct(User)1156_storage": {
+            "label": "struct TokenPresale.User",
+            "members": [
+              {
+                "label": "usdInvested",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "tokensAllocated",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "referrerEarnings",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "referrerEarningsClaimed",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "tokensClaimed",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "noOfReferrals",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "5"
+              }
+            ],
+            "numberOfBytes": "192"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        },
+        "namespaces": {}
+      }
+    },
+    "54041ebe5e42d6adeeaffde60253c7bcf00eaef0a0256349be259d1dccfbfc5d": {
+      "address": "0x503C7b96171CdDE65842De5e54acB33a85E3fA4E",
+      "txHash": "0xb0b9a7be81a79f838db62bb75d90076bc2d56071e305904005214d189213bfe6",
+      "layout": {
+        "solcVersion": "0.8.2",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:63",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:68"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:40"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "_status",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_uint256",
+            "contract": "ReentrancyGuardUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\ReentrancyGuardUpgradeable.sol:38"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "ReentrancyGuardUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\ReentrancyGuardUpgradeable.sol:88"
+          },
+          {
+            "label": "_paused",
+            "offset": 0,
+            "slot": "151",
+            "type": "t_bool",
+            "contract": "PausableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\PausableUpgradeable.sol:29"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "152",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "PausableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\PausableUpgradeable.sol:116"
+          },
+          {
+            "label": "token",
+            "offset": 0,
+            "slot": "201",
+            "type": "t_contract(IERC20Upgradeable)592",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:46"
+          },
+          {
+            "label": "treasury",
+            "offset": 0,
+            "slot": "202",
+            "type": "t_address_payable",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:48"
+          },
+          {
+            "label": "ethDataFeed",
+            "offset": 0,
+            "slot": "203",
+            "type": "t_contract(AggregatorV3Interface)1101",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:50"
+          },
+          {
+            "label": "referrerBonusPercentage",
+            "offset": 0,
+            "slot": "204",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:52"
+          },
+          {
+            "label": "minPurchase",
+            "offset": 0,
+            "slot": "205",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:54"
+          },
+          {
+            "label": "maxPurchase",
+            "offset": 0,
+            "slot": "206",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:56"
+          },
+          {
+            "label": "presaleEnded",
+            "offset": 0,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:58"
+          },
+          {
+            "label": "referrerBonusReleased",
+            "offset": 1,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:60"
+          },
+          {
+            "label": "claimReleased",
+            "offset": 2,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:62"
+          },
+          {
+            "label": "whitelistedTokens",
+            "offset": 0,
+            "slot": "208",
+            "type": "t_mapping(t_address,t_bool)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:64"
+          },
+          {
+            "label": "tokenList",
+            "offset": 0,
+            "slot": "209",
+            "type": "t_array(t_address)dyn_storage",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:66"
+          },
+          {
+            "label": "vestingStartTime",
+            "offset": 0,
+            "slot": "210",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:69"
+          },
+          {
+            "label": "vestingDuration",
+            "offset": 0,
+            "slot": "211",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:71"
+          },
+          {
+            "label": "cliffDuration",
+            "offset": 0,
+            "slot": "212",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:73"
+          },
+          {
+            "label": "totalReferrerBonusAllocated",
+            "offset": 0,
+            "slot": "213",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:75"
+          },
+          {
+            "label": "referralBonusTokenAddress",
+            "offset": 0,
+            "slot": "214",
+            "type": "t_address",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:77"
+          },
+          {
+            "label": "vestingPercentage",
+            "offset": 0,
+            "slot": "215",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:79"
+          },
+          {
+            "label": "usdtTokenAddress",
+            "offset": 0,
+            "slot": "216",
+            "type": "t_contract(IERC20Upgradeable)592",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:81"
+          },
+          {
+            "label": "users",
+            "offset": 0,
+            "slot": "217",
+            "type": "t_mapping(t_address,t_struct(User)1167_storage)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:93"
+          },
+          {
+            "label": "contributions",
+            "offset": 0,
+            "slot": "218",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_uint256))",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:95"
+          },
+          {
+            "label": "currentStageId",
+            "offset": 0,
+            "slot": "219",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:109"
+          },
+          {
+            "label": "stages",
+            "offset": 0,
+            "slot": "220",
+            "type": "t_mapping(t_uint256,t_struct(Stage)1195_storage)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:111"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_address_payable": {
+            "label": "address payable",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(AggregatorV3Interface)1101": {
+            "label": "contract AggregatorV3Interface",
+            "numberOfBytes": "20"
+          },
+          "t_contract(IERC20Upgradeable)592": {
+            "label": "contract IERC20Upgradeable",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_uint256))": {
+            "label": "mapping(address => mapping(address => uint256))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_struct(User)1167_storage)": {
+            "label": "mapping(address => struct TokenPresale.User)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Stage)1195_storage)": {
+            "label": "mapping(uint256 => struct TokenPresale.Stage)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Stage)1195_storage": {
+            "label": "struct TokenPresale.Stage",
+            "members": [
+              {
+                "label": "tokensAllocated",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "tokensSold",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "rate",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "startTime",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "endTime",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "amountRaised",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
+                "label": "isActive",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "6"
+              },
+              {
+                "label": "referrerBonusAmount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "7"
+              }
+            ],
+            "numberOfBytes": "256"
+          },
+          "t_struct(User)1167_storage": {
+            "label": "struct TokenPresale.User",
+            "members": [
+              {
+                "label": "usdInvested",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "tokensAllocated",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "referrerEarnings",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "referrerEarningsClaimed",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "tokensClaimed",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "noOfReferrals",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "5"
+              }
+            ],
+            "numberOfBytes": "192"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        },
+        "namespaces": {}
+      }
+    },
+    "e47651d123b437a3e0e51191cd1c8ca872215a2c31590652c327062969535dc5": {
+      "address": "0xbad79Ba8be5EE390F975245Ef668a3965d5D4Bd3",
+      "txHash": "0xd08ef440ae6cafc1abc14ba7a7f241ba1c32677c814d799bbc69d903dd163213",
+      "layout": {
+        "solcVersion": "0.8.2",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:63",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:68"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:40"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "_status",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_uint256",
+            "contract": "ReentrancyGuardUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\ReentrancyGuardUpgradeable.sol:38"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "ReentrancyGuardUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\ReentrancyGuardUpgradeable.sol:88"
+          },
+          {
+            "label": "_paused",
+            "offset": 0,
+            "slot": "151",
+            "type": "t_bool",
+            "contract": "PausableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\PausableUpgradeable.sol:29"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "152",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "PausableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\PausableUpgradeable.sol:116"
+          },
+          {
+            "label": "token",
+            "offset": 0,
+            "slot": "201",
+            "type": "t_contract(IERC20Upgradeable)592",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:41"
+          },
+          {
+            "label": "treasury",
+            "offset": 0,
+            "slot": "202",
+            "type": "t_address_payable",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:43"
+          },
+          {
+            "label": "ethDataFeed",
+            "offset": 0,
+            "slot": "203",
+            "type": "t_contract(AggregatorV3Interface)1097",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:45"
+          },
+          {
+            "label": "referrerBonusPercentage",
+            "offset": 0,
+            "slot": "204",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:47"
+          },
+          {
+            "label": "minPurchase",
+            "offset": 0,
+            "slot": "205",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:49"
+          },
+          {
+            "label": "maxPurchase",
+            "offset": 0,
+            "slot": "206",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:51"
+          },
+          {
+            "label": "presaleEnded",
+            "offset": 0,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:53"
+          },
+          {
+            "label": "referrerBonusReleased",
+            "offset": 1,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:55"
+          },
+          {
+            "label": "claimReleased",
+            "offset": 2,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:57"
+          },
+          {
+            "label": "whitelistedTokens",
+            "offset": 0,
+            "slot": "208",
+            "type": "t_mapping(t_address,t_bool)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:59"
+          },
+          {
+            "label": "tokenList",
+            "offset": 0,
+            "slot": "209",
+            "type": "t_array(t_address)dyn_storage",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:61"
+          },
+          {
+            "label": "vestingStartTime",
+            "offset": 0,
+            "slot": "210",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:64"
+          },
+          {
+            "label": "vestingDuration",
+            "offset": 0,
+            "slot": "211",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:66"
+          },
+          {
+            "label": "cliffDuration",
+            "offset": 0,
+            "slot": "212",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:68"
+          },
+          {
+            "label": "totalReferrerBonusAllocated",
+            "offset": 0,
+            "slot": "213",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:70"
+          },
+          {
+            "label": "vestingPercentage",
+            "offset": 0,
+            "slot": "214",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:72"
+          },
+          {
+            "label": "users",
+            "offset": 0,
+            "slot": "215",
+            "type": "t_mapping(t_address,t_struct(User)1158_storage)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:84"
+          },
+          {
+            "label": "contributions",
+            "offset": 0,
+            "slot": "216",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_uint256))",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:86"
+          },
+          {
+            "label": "currentStageId",
+            "offset": 0,
+            "slot": "217",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:100"
+          },
+          {
+            "label": "stages",
+            "offset": 0,
+            "slot": "218",
+            "type": "t_mapping(t_uint256,t_struct(Stage)1186_storage)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:102"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_address_payable": {
+            "label": "address payable",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(AggregatorV3Interface)1097": {
+            "label": "contract AggregatorV3Interface",
+            "numberOfBytes": "20"
+          },
+          "t_contract(IERC20Upgradeable)592": {
+            "label": "contract IERC20Upgradeable",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_uint256))": {
+            "label": "mapping(address => mapping(address => uint256))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_struct(User)1158_storage)": {
+            "label": "mapping(address => struct TokenPresale.User)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Stage)1186_storage)": {
+            "label": "mapping(uint256 => struct TokenPresale.Stage)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Stage)1186_storage": {
+            "label": "struct TokenPresale.Stage",
+            "members": [
+              {
+                "label": "tokensAllocated",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "tokensSold",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "rate",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "startTime",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "endTime",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "amountRaised",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
+                "label": "isActive",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "6"
+              },
+              {
+                "label": "referrerBonusAmount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "7"
+              }
+            ],
+            "numberOfBytes": "256"
+          },
+          "t_struct(User)1158_storage": {
+            "label": "struct TokenPresale.User",
+            "members": [
+              {
+                "label": "usdInvested",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "tokensAllocated",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "referrerEarnings",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "referrerEarningsClaimed",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "tokensClaimed",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "noOfReferrals",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "5"
+              }
+            ],
+            "numberOfBytes": "192"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        },
+        "namespaces": {}
+      }
+    },
+    "b196e0f00d4838d41d1335f20d5716af3ffc4e9045018003537576ec0c161946": {
+      "address": "0x03727dfB6c1388F9E87b2147ca6A834a17425Fb0",
+      "txHash": "0x551e939ea1428cb88d925535bbb5e5de5c5e86e4aa962dbad17a64572e170d3e",
+      "layout": {
+        "solcVersion": "0.8.2",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:63",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:68"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:40"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "_status",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_uint256",
+            "contract": "ReentrancyGuardUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\ReentrancyGuardUpgradeable.sol:38"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "ReentrancyGuardUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\ReentrancyGuardUpgradeable.sol:88"
+          },
+          {
+            "label": "_paused",
+            "offset": 0,
+            "slot": "151",
+            "type": "t_bool",
+            "contract": "PausableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\PausableUpgradeable.sol:29"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "152",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "PausableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\PausableUpgradeable.sol:116"
+          },
+          {
+            "label": "token",
+            "offset": 0,
+            "slot": "201",
+            "type": "t_contract(IERC20Upgradeable)592",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:41"
+          },
+          {
+            "label": "treasury",
+            "offset": 0,
+            "slot": "202",
+            "type": "t_address_payable",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:43"
+          },
+          {
+            "label": "ethDataFeed",
+            "offset": 0,
+            "slot": "203",
+            "type": "t_contract(AggregatorV3Interface)1097",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:45"
+          },
+          {
+            "label": "referrerBonusPercentage",
+            "offset": 0,
+            "slot": "204",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:47"
+          },
+          {
+            "label": "minPurchase",
+            "offset": 0,
+            "slot": "205",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:49"
+          },
+          {
+            "label": "maxPurchase",
+            "offset": 0,
+            "slot": "206",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:51"
+          },
+          {
+            "label": "presaleEnded",
+            "offset": 0,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:53"
+          },
+          {
+            "label": "referrerBonusReleased",
+            "offset": 1,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:55"
+          },
+          {
+            "label": "claimReleased",
+            "offset": 2,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:57"
+          },
+          {
+            "label": "whitelistedTokens",
+            "offset": 0,
+            "slot": "208",
+            "type": "t_mapping(t_address,t_bool)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:59"
+          },
+          {
+            "label": "tokenList",
+            "offset": 0,
+            "slot": "209",
+            "type": "t_array(t_address)dyn_storage",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:61"
+          },
+          {
+            "label": "vestingStartTime",
+            "offset": 0,
+            "slot": "210",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:64"
+          },
+          {
+            "label": "vestingDuration",
+            "offset": 0,
+            "slot": "211",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:66"
+          },
+          {
+            "label": "cliffDuration",
+            "offset": 0,
+            "slot": "212",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:68"
+          },
+          {
+            "label": "totalReferrerBonusAllocated",
+            "offset": 0,
+            "slot": "213",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:70"
+          },
+          {
+            "label": "vestingPercentage",
+            "offset": 0,
+            "slot": "214",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:72"
+          },
+          {
+            "label": "users",
+            "offset": 0,
+            "slot": "215",
+            "type": "t_mapping(t_address,t_struct(User)1158_storage)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:84"
+          },
+          {
+            "label": "contributions",
+            "offset": 0,
+            "slot": "216",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_uint256))",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:86"
+          },
+          {
+            "label": "currentStageId",
+            "offset": 0,
+            "slot": "217",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:100"
+          },
+          {
+            "label": "stages",
+            "offset": 0,
+            "slot": "218",
+            "type": "t_mapping(t_uint256,t_struct(Stage)1186_storage)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:102"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_address_payable": {
+            "label": "address payable",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(AggregatorV3Interface)1097": {
+            "label": "contract AggregatorV3Interface",
+            "numberOfBytes": "20"
+          },
+          "t_contract(IERC20Upgradeable)592": {
+            "label": "contract IERC20Upgradeable",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_uint256))": {
+            "label": "mapping(address => mapping(address => uint256))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_struct(User)1158_storage)": {
+            "label": "mapping(address => struct TokenPresale.User)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Stage)1186_storage)": {
+            "label": "mapping(uint256 => struct TokenPresale.Stage)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Stage)1186_storage": {
+            "label": "struct TokenPresale.Stage",
+            "members": [
+              {
+                "label": "tokensAllocated",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "tokensSold",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "rate",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "startTime",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "endTime",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "amountRaised",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
+                "label": "isActive",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "6"
+              },
+              {
+                "label": "referrerBonusAmount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "7"
+              }
+            ],
+            "numberOfBytes": "256"
+          },
+          "t_struct(User)1158_storage": {
+            "label": "struct TokenPresale.User",
+            "members": [
+              {
+                "label": "usdInvested",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "tokensAllocated",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "referrerEarnings",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "referrerEarningsClaimed",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "tokensClaimed",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "noOfReferrals",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "5"
+              }
+            ],
+            "numberOfBytes": "192"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        },
+        "namespaces": {}
+      }
+    },
+    "bfd2022b78f0fd861b1e4d0a81fe32aff8d1913f55654fe837f728014d50333e": {
+      "address": "0xf56e1d8608d6bbD9EB4E8C6eEe02c67430472790",
+      "txHash": "0x0667c0556ea3db6b6284f1e1630425d6c15547470567abf28bcc07db78725590",
+      "layout": {
+        "solcVersion": "0.8.2",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:63",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:68"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:40"
+          },
+          {
+            "label": "_balances",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_mapping(t_address,t_uint256)",
+            "contract": "ERC20Upgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\token\\ERC20\\ERC20Upgradeable.sol:40"
+          },
+          {
+            "label": "_allowances",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_uint256))",
+            "contract": "ERC20Upgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\token\\ERC20\\ERC20Upgradeable.sol:42"
+          },
+          {
+            "label": "_totalSupply",
+            "offset": 0,
+            "slot": "53",
+            "type": "t_uint256",
+            "contract": "ERC20Upgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\token\\ERC20\\ERC20Upgradeable.sol:44"
+          },
+          {
+            "label": "_name",
+            "offset": 0,
+            "slot": "54",
+            "type": "t_string_storage",
+            "contract": "ERC20Upgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\token\\ERC20\\ERC20Upgradeable.sol:46"
+          },
+          {
+            "label": "_symbol",
+            "offset": 0,
+            "slot": "55",
+            "type": "t_string_storage",
+            "contract": "ERC20Upgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\token\\ERC20\\ERC20Upgradeable.sol:47"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "56",
+            "type": "t_array(t_uint256)45_storage",
+            "contract": "ERC20Upgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\token\\ERC20\\ERC20Upgradeable.sol:376"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_uint256)45_storage": {
+            "label": "uint256[45]",
+            "numberOfBytes": "1440"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_uint256))": {
+            "label": "mapping(address => mapping(address => uint256))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_string_storage": {
+            "label": "string",
+            "numberOfBytes": "32"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        },
+        "namespaces": {}
+      }
+    },
+    "7b55c4af88fcceb3ec81fcb3d2663b239be1e7bf89ec0a57f2e8ede401e49393": {
+      "address": "0xc5bBB160d12E08D1D8509C98f44724730cfD34a0",
+      "txHash": "0xb715eef70531eddbe1c10a224dae4f8c7d39f1e0f082d7ce521baee3b7a51654",
+      "layout": {
+        "solcVersion": "0.8.2",
+        "storage": [
+          {
+            "label": "_initialized",
+            "offset": 0,
+            "slot": "0",
+            "type": "t_uint8",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:63",
+            "retypedFrom": "bool"
+          },
+          {
+            "label": "_initializing",
+            "offset": 1,
+            "slot": "0",
+            "type": "t_bool",
+            "contract": "Initializable",
+            "src": "@openzeppelin\\contracts-upgradeable\\proxy\\utils\\Initializable.sol:68"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "1",
+            "type": "t_array(t_uint256)50_storage",
+            "contract": "ContextUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\utils\\ContextUpgradeable.sol:40"
+          },
+          {
+            "label": "_owner",
+            "offset": 0,
+            "slot": "51",
+            "type": "t_address",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:22"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "52",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "OwnableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\access\\OwnableUpgradeable.sol:94"
+          },
+          {
+            "label": "_status",
+            "offset": 0,
+            "slot": "101",
+            "type": "t_uint256",
+            "contract": "ReentrancyGuardUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\ReentrancyGuardUpgradeable.sol:38"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "102",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "ReentrancyGuardUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\ReentrancyGuardUpgradeable.sol:88"
+          },
+          {
+            "label": "_paused",
+            "offset": 0,
+            "slot": "151",
+            "type": "t_bool",
+            "contract": "PausableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\PausableUpgradeable.sol:29"
+          },
+          {
+            "label": "__gap",
+            "offset": 0,
+            "slot": "152",
+            "type": "t_array(t_uint256)49_storage",
+            "contract": "PausableUpgradeable",
+            "src": "@openzeppelin\\contracts-upgradeable\\security\\PausableUpgradeable.sol:116"
+          },
+          {
+            "label": "token",
+            "offset": 0,
+            "slot": "201",
+            "type": "t_contract(IERC20Upgradeable)592",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:42"
+          },
+          {
+            "label": "treasury",
+            "offset": 0,
+            "slot": "202",
+            "type": "t_address_payable",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:44"
+          },
+          {
+            "label": "ethDataFeed",
+            "offset": 0,
+            "slot": "203",
+            "type": "t_contract(AggregatorV3Interface)1514",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:46"
+          },
+          {
+            "label": "referrerBonusPercentage",
+            "offset": 0,
+            "slot": "204",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:48"
+          },
+          {
+            "label": "minPurchase",
+            "offset": 0,
+            "slot": "205",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:50"
+          },
+          {
+            "label": "maxPurchase",
+            "offset": 0,
+            "slot": "206",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:52"
+          },
+          {
+            "label": "presaleEnded",
+            "offset": 0,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:54"
+          },
+          {
+            "label": "referrerBonusReleased",
+            "offset": 1,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:56"
+          },
+          {
+            "label": "claimReleased",
+            "offset": 2,
+            "slot": "207",
+            "type": "t_bool",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:58"
+          },
+          {
+            "label": "whitelistedTokens",
+            "offset": 0,
+            "slot": "208",
+            "type": "t_mapping(t_address,t_bool)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:60"
+          },
+          {
+            "label": "tokenList",
+            "offset": 0,
+            "slot": "209",
+            "type": "t_array(t_address)dyn_storage",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:62"
+          },
+          {
+            "label": "vestingStartTime",
+            "offset": 0,
+            "slot": "210",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:65"
+          },
+          {
+            "label": "vestingDuration",
+            "offset": 0,
+            "slot": "211",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:67"
+          },
+          {
+            "label": "cliffDuration",
+            "offset": 0,
+            "slot": "212",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:69"
+          },
+          {
+            "label": "totalReferrerBonusAllocated",
+            "offset": 0,
+            "slot": "213",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:71"
+          },
+          {
+            "label": "vestingPercentage",
+            "offset": 0,
+            "slot": "214",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:73"
+          },
+          {
+            "label": "users",
+            "offset": 0,
+            "slot": "215",
+            "type": "t_mapping(t_address,t_struct(User)1579_storage)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:85"
+          },
+          {
+            "label": "contributions",
+            "offset": 0,
+            "slot": "216",
+            "type": "t_mapping(t_address,t_mapping(t_address,t_uint256))",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:87"
+          },
+          {
+            "label": "currentStageId",
+            "offset": 0,
+            "slot": "217",
+            "type": "t_uint256",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:101"
+          },
+          {
+            "label": "stages",
+            "offset": 0,
+            "slot": "218",
+            "type": "t_mapping(t_uint256,t_struct(Stage)1607_storage)",
+            "contract": "TokenPresale",
+            "src": "contracts\\TokenPresale.sol:103"
+          }
+        ],
+        "types": {
+          "t_address": {
+            "label": "address",
+            "numberOfBytes": "20"
+          },
+          "t_address_payable": {
+            "label": "address payable",
+            "numberOfBytes": "20"
+          },
+          "t_array(t_address)dyn_storage": {
+            "label": "address[]",
+            "numberOfBytes": "32"
+          },
+          "t_array(t_uint256)49_storage": {
+            "label": "uint256[49]",
+            "numberOfBytes": "1568"
+          },
+          "t_array(t_uint256)50_storage": {
+            "label": "uint256[50]",
+            "numberOfBytes": "1600"
+          },
+          "t_bool": {
+            "label": "bool",
+            "numberOfBytes": "1"
+          },
+          "t_contract(AggregatorV3Interface)1514": {
+            "label": "contract AggregatorV3Interface",
+            "numberOfBytes": "20"
+          },
+          "t_contract(IERC20Upgradeable)592": {
+            "label": "contract IERC20Upgradeable",
+            "numberOfBytes": "20"
+          },
+          "t_mapping(t_address,t_bool)": {
+            "label": "mapping(address => bool)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_mapping(t_address,t_uint256))": {
+            "label": "mapping(address => mapping(address => uint256))",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_struct(User)1579_storage)": {
+            "label": "mapping(address => struct TokenPresale.User)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_address,t_uint256)": {
+            "label": "mapping(address => uint256)",
+            "numberOfBytes": "32"
+          },
+          "t_mapping(t_uint256,t_struct(Stage)1607_storage)": {
+            "label": "mapping(uint256 => struct TokenPresale.Stage)",
+            "numberOfBytes": "32"
+          },
+          "t_struct(Stage)1607_storage": {
+            "label": "struct TokenPresale.Stage",
+            "members": [
+              {
+                "label": "tokensAllocated",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "tokensSold",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "rate",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "startTime",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "endTime",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "amountRaised",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "5"
+              },
+              {
+                "label": "isActive",
+                "type": "t_bool",
+                "offset": 0,
+                "slot": "6"
+              },
+              {
+                "label": "referrerBonusAmount",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "7"
+              }
+            ],
+            "numberOfBytes": "256"
+          },
+          "t_struct(User)1579_storage": {
+            "label": "struct TokenPresale.User",
+            "members": [
+              {
+                "label": "usdInvested",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "0"
+              },
+              {
+                "label": "tokensAllocated",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "1"
+              },
+              {
+                "label": "referrerEarnings",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "2"
+              },
+              {
+                "label": "referrerEarningsClaimed",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "3"
+              },
+              {
+                "label": "tokensClaimed",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "4"
+              },
+              {
+                "label": "noOfReferrals",
+                "type": "t_uint256",
+                "offset": 0,
+                "slot": "5"
+              }
+            ],
+            "numberOfBytes": "192"
+          },
+          "t_uint256": {
+            "label": "uint256",
+            "numberOfBytes": "32"
+          },
+          "t_uint8": {
+            "label": "uint8",
+            "numberOfBytes": "1"
+          }
+        },
+        "namespaces": {}
+      }
+    }
+  }
+}
